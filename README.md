@@ -20,7 +20,7 @@ This repository serves as a central portfolio for all students to showcase code,
 </a>
 
 #### Project Submission Tutorial
-<a href="https://github.com/cs-131-lapc-spring-2026/student-portfolios" target="_blank">
+<a href="https://youtu.be/oZ2pcaGglDo" target="_blank">
   <img src="public/submission-preview.png" width="200">
   <p>Click to watch the tutorial video.</p>
 </a>
