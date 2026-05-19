@@ -19,7 +19,7 @@ This repository serves as a central portfolio for all students to showcase code,
   <p>Click to watch the tutorial video.</p>
 </a>
 
-#### Project Submission Tutorial
+#### How to Submit Your Project
 <a href="https://youtu.be/oZ2pcaGglDo" target="_blank">
   <img src="public/submission-preview.png" width="200">
   <p>Click to watch the tutorial video.</p>
