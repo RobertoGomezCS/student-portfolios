@@ -1,10 +1,6 @@
 # When LLMs Learn to Move: Language Models as Robot Brains
 ### CS131 — Discrete Structures | Spring 2026 | Pierce College
 
----
-
-## 📺 Video Presentation
-> **[INSERT YOUTUBE LINK HERE]**
 
 ---
 
@@ -13,17 +9,6 @@
 This project explores **Vision-Language-Action (VLA) models** — a class of AI systems that connect large language models directly to physical robot control. The central case study is **RT-2 (Robotics Transformer 2)**, published by Google DeepMind in 2023, which was the first model to prove that internet-scale language pretraining could transfer to real-world robotic tasks.
 
 The presentation also covers the current state of humanoid robotics in 2026, including the **Beijing E-Town Half-Marathon** (April 2026), where a humanoid robot completed a 21km course faster than any human world record — autonomously.
-
----
-
-## 🗂 Repository Contents
-
-| File | Description |
-|------|-------------|
-| `README.md` | This file |
-| `slides.pptx` | Full presentation slide deck |
-| `speaker_notes.md` | Voiceover script (~6 min) |
-| `code_snippets.py` | Annotated code examples used in slides |
 
 ---
 
